@@ -2,7 +2,7 @@ import setuptools
 from setuptools import setup
 
 setup(name='enapi',
-    version='0.01',
+    version='0.02',
     description='Common API functionality',
     url="https://github.com/kingmold/enapi",
     author='Eric Nuno',

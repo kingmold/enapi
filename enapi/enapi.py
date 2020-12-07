@@ -1,2 +1,2 @@
-def main():
-    pass
+def hello_world():
+    print("Hello, World!")
